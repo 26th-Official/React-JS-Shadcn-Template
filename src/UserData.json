@@ -1,0 +1,16 @@
+{
+    "Username" : "Sample User",
+    "Profile_Picture" : "https://i.pinimg.com/1200x/3f/96/3c/3f963c60121e373063cf466b4cef595a.jpg",
+    "Profession" : "Artist",
+    "Email" : "sample@gmail.com",
+    "Socials" : {
+        "Twitter" : "https://twitter.com/",
+        "Facebook" : "https://www.facebook.com/",
+        "Instagram" : "https://www.instagram.com/",
+        "LinkedIn" : "https://www.linkedin.com/",
+        "Youtube" : "https://www.youtube.com/",
+        "Github" : "https://github.com/"
+    },
+    "Disqus_ShortURL" : "portfolio-njwusldzx1",
+    "User_Portfolio" : "https://www.artstation.com/professormeowington"
+}
